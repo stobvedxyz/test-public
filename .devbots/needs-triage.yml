@@ -1,2 +1,2 @@
 label: triage
-skip_when_has_labels: *
+skip_when_has_labels: ["*"]
