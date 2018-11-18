@@ -1,2 +1,2 @@
 label: triage
-delay: 2
+skip_when_has_labels: *
