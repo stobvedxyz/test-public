@@ -1,3 +1,2 @@
 # test-public
-Test Public
-Foo
+Blah
