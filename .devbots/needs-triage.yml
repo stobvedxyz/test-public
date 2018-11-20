@@ -1,1 +1,2 @@
-label: needs-triage
+label: triage
+skip_when_has_milestone: true
