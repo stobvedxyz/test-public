@@ -1,2 +1,3 @@
 enabled: true
-delay: 2
+skip_when_has_assignee: true
+
