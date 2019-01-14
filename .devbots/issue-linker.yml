@@ -1,0 +1,6 @@
+enabled: true
+
+trackers:
+  "KT-[0-9]+": "https://youtrack.jetbrains.com/issue/ISSUE"
+  "SWIFT-[0-9]+": "https://bugs.swift.org/browse/ISSUE"
+  "FOOBAR-[0-9]+": "https://bug.tracker/issues/ISSUE"
