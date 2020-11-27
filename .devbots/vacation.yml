@@ -1,2 +1,4 @@
 enabled: true
-comment: "> Thank you for opening this issue or pull request! December is a very slow month with many project maintainers taking some time off. So please be patient - we will take a look at your issue or pull request, but it may take a little while."
+issue-comment: "> Thank you for opening this issue. December is a very slow month with many people taking some time off. So please be patient - we will take a look at your issue, but it may take a little while."
+pull-comment: "> Thank for this pull request. December is slow and we're not here, but we will review as soon as we can in the new year."
+period: 2020-11-21 / 2020-11-29
